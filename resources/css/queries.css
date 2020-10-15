@@ -84,7 +84,8 @@ we defined our row to be 1140 pixels
     }
 
     header {
-        background-size: auto;
+        background-size: 100%;
+        background-size: cover;
     }
 
     .row, .hero-text-box {
@@ -177,7 +178,8 @@ we defined our row to be 1140 pixels
     }
 
     .section-testimonials{
-        background-size: auto;
+        background-size: 100%;
+        background-size: cover;
     }
 
 /* Small Phones: from 0 to 480 pixels */
