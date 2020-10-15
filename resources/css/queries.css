@@ -84,7 +84,7 @@ we defined our row to be 1140 pixels
     }
 
     header {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero-mobile.jpg);
+        background-size: 100% 100%;
     }
 
     .row, .hero-text-box {
@@ -176,9 +176,6 @@ we defined our row to be 1140 pixels
         width: 40%;
     }
 
-    .section-testimonials{
-        background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers-mobile.jpg);
-    }
 /* Small Phones: from 0 to 480 pixels */
 @media only screen and (max-width: 480px){
     section {
